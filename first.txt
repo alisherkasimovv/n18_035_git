@@ -25,3 +25,9 @@ Bu yerda esa matn 5-qatorni egalladi.
 88
 99
 100
+
+DEV
+TEST
+PROD
+
+Linus Torvalds
