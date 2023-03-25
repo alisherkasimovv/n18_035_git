@@ -3,3 +3,14 @@ This text is written on second line.
 
 Bu matn esa endi ikkinchi versiyada paydo bo'ldi.
 Bu yerda esa matn 5-qatorni egalladi.
+
+11
+22
+33
+44
+55
+66
+77
+88
+99
+100
