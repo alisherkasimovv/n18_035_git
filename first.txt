@@ -1,2 +1,5 @@
 This text was written first.
 This text is written on second line.
+
+Bu matn esa endi ikkinchi versiyada paydo bo'ldi.
+Bu yerda esa matn 5-qatorni egalladi.
